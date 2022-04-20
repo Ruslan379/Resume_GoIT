@@ -1,1 +1,2 @@
-# Resume_GoIT
+# Resume Anton Chornyi
+Марафон_GoIT
